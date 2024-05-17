@@ -1,0 +1,1 @@
+mysql -h mymysqlinstance.cfke813lcjsm.ap-south-1.rds.amazonaws.com -P 3306 -u boto_user -p
